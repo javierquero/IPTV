@@ -1,4 +1,5 @@
 ﻿#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz" 
+
 #EXTINF:-1 tvg-name="NETFLIX FHD"tvg-id=""tvg-logo="http://mundo2.vip:8080/images/3e55ed4c490f422dc63a7c1ef85f93c6.png"group-title="Variedades":http-user-agent="",NETFLIX PELICULAS
 http://streamingtv.vip:80/Redcol7363bd/6263636bdbfvf/317032
 #EXTINF:-1 tvg-name=""tvg-id="AandE HD.uy"tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true"group-title="Variedades":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",A&E
