@@ -2,9 +2,6 @@
 
 CANALES ARGENTINOS
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="FS CONVERTIDORES",FS CONVERTIDORES
-https://api-f.streamable.com/api/v1/videos/pmkx25/mp4
-
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
@@ -1980,5 +1977,6 @@ http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/101896
 http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/94869
 
 LISTA DE FS CONVERTIDORES
+
 
 
