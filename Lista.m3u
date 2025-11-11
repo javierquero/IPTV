@@ -2,13 +2,13 @@
 
 CANALES ARGENTINOS
 
-#EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="ARGENTINA", América
+#EXTINF:-1  tvg-id="AMERICA 2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="america24.ar" tvg-name="ARG | America TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="ARGENTINA",America TV op2
+#EXTINF:-1 tvg-id="AMERICA 24.ar" tvg-name="ARG | America TV HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/americatv.png" group-title="ARGENTINA",America TV op2
 http://pixelmax.link:8085/Dzambrano1984/Dzambrano1984/99743
 
 
@@ -24,13 +24,13 @@ https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://playe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="canal9.ar" tvg-name="ARG | El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="ARGENTINA",El Nueve op2
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-name="ARG | El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="ARGENTINA",El Nueve op2
 http://tv.proyectox.vip:8080/medinamario1/xdMvFWAM5j/7937
 
-#EXTINF:-1 tvg-id="canal9.ar" tvg-name="ARG | El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="ARGENTINA",El Nueve op 3
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-name="ARG | El Nueve HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/elnueve.png" group-title="ARGENTINA",El Nueve op 3
 http://pixelmax.link:8085/Dzambrano1984/Dzambrano1984/374595
 
-#EXTINF:-1  tvg-id="ElTrece.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="ARGENTINA",El Trece
+#EXTINF:-1  tvg-id="EL TRECE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="ARGENTINA",El Trece
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -44,12 +44,12 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=htt
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-##EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 FHD" tvg-logo="https://encrypted-#tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-#title="ARGENTlNA",EL TRECE op 2
+##EXTINF:-1 tvg-id="EL TRECE HD.ar" tvg-name="AR | CANAL 13 FHD" tvg-logo="https://encrypted-#tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-#title="ARGENTlNA",EL TRECE op 2
 
 
 #http://pixelmax.link:8085/Dzambrano1984/Dzambrano1984/99751
 
-#EXTINF:-1  tvg-id="NETTV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="ARGENTINA", Net TV
+#EXTINF:-1  tvg-id="NET TV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="ARGENTINA", Net TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -75,14 +75,14 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="ARG | TV Publica HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="ARGENTINA",TV Publica op 2
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="ARG | TV Publica HD" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="ARGENTINA",TV Publica op 2
 http://tv.proyectox.vip:8080/medinamario1/xdMvFWAM5j/84863
 
-#EXTINF:-1 tvg-id="tvpública.ar" tvg-name="ARG | TV Publica" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="ARGENTINA",TV Publica op 3
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="ARG | TV Publica" tvg-logo="http://213.145.87.11/Logos/4rgentina/tvpublica.png" group-title="ARGENTINA",TV Publica op 3
 http://tv.proyectox.vip:8080/medinamario1/xdMvFWAM5j/7953
 
 #EXTGRP:Noticias
-#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="Noticias", A24
+#EXTINF:-1  tvg-id="AMERICA 24.ar" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="Noticias", A24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -90,7 +90,7 @@ https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://pla
 
 
 
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
+#EXTINF:-1  tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -103,36 +103,25 @@ https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://pla
 https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-1 tvg-id="canal26.ar" tvg-name="ARG | Canal 26 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="ARGENTINA",Canal 26 op2
+#EXTINF:-1 tvg-id="26 TV.ar" tvg-name="ARG | Canal 26 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/canal26.png" group-title="ARGENTINA",Canal 26 op2
 http://tv.proyectox.vip:8080/medinamario1/xdMvFWAM5j/84850
 
-#EXTINF:-1  tvg-id="CanalE" tvg-current-title="Programación Canal E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="Noticias", Canal E
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="Noticias", Cronica
+#EXTINF:-1  tvg-id="CRONICA TV.ar" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="Noticias", Cronica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  tvg-id="LaNacionPlus.ar.uy" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
+#EXTINF:-1  tvg-id="LA NACION +.ar" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="ARG-La Nacion+ (M)(720) " tvg-logo="https://images.seeklogo.com/logo-png/4/1/diario-la-nacion-logo-png_seeklogo-41001.png" group-title="ARGENTINA",La Nacion+ op 2
+#EXTINF:-1 tvg-id="LA NACION +.ar" tvg-name="ARG-La Nacion+ (M)(720) " tvg-logo="https://images.seeklogo.com/logo-png/4/1/diario-la-nacion-logo-png_seeklogo-41001.png" group-title="ARGENTINA",La Nacion+ op 2
 http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/111327
 
-#EXTINF:-1 tvg-id="T5Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true", T5 Satelital
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -140,16 +129,7 @@ https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1024px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN op 2
-http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/7949
-
-
- ##EXTINF:-1 tvg-id="a24.ar" tvg-name="ARG | A24 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="ARGENTINA",A24 FHD
-
-
-
-
-
+##EXTINF:-1 tvg-id="a24.ar" tvg-name="ARG | A24 FHD" tvg-logo="http://213.145.87.11/Logos/4rgentina/a24.png" group-title="ARGENTINA",A24 FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-KrIsd8qY_eHwC2qyCPKdV-85iwAGaD7CIQ&s" group-title="ARGENTINA",Cronica
 http://tv.proyectox.vip:8080/medinamario1/xdMvFWAM5j/7935
@@ -1977,6 +1957,7 @@ http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/101896
 http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/94869
 
 LISTA DE FS CONVERTIDORES
+
 
 
 
